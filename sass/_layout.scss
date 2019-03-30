@@ -20,8 +20,6 @@
 
 .content {
   display: flex;
-
-
 }
 
 .sidebar {
@@ -34,5 +32,5 @@
   background-color: #fff;
   background-color: orangered;
 
-  flex: 1; //element grow until it can
+  flex: 1; //element will grow or occupy entire space that is left
 }
